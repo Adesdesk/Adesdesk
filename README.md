@@ -2,4 +2,4 @@
 - My interest is in web development and computer programming
 - I am currently learning web 3 and blockchain technology
 - I look forward to collaborating on the development and management of web applications and decentralized applications that thoughtfully solve problems confronting mankind.
-- I can be reached via adesdesk@outlook.com via this same platform.
+- I can be reached via adesdesk@outlook.com, or via this same platform.
