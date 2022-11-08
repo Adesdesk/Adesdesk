@@ -1,5 +1,5 @@
 - I am Adeola David A., also known as adesdesk
-- My interest is in web development and computer programming
-- I am currently learning web 3 and blockchain technology
+- My interest is in web development, decentralized applications development, and computer programming
+- I am currently learning rust language for web 3 development
 - I look forward to collaborating on the development and management of web applications and decentralized applications that thoughtfully solve problems confronting mankind.
 - I can be reached via adesdesk@outlook.com, or via this same platform.
