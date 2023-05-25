@@ -1,7 +1,4 @@
-- I am Adeola. 
-- I am a full-stack Javascript and Solidity Developer.
-- My interest is in software and decentralized applications development.
-- I am currently learning Rust language for safe systems programming.
-- I look forward to collaborating on the development and management of both centralized 
-and decentralized applications that thoughtfully solve problems confronting mankind.
-- I can be reached via adesdesk@outlook.com.
+### I am Adeola, a full-stack Javascript and Solidity Developer with extensive experience conceptualizing and developing full-stack web applications. Solving real-life problems using creatively written programming instructions is my delight. I am adept at various stages of the life cycle of web2 and web3 development including design, coding/programming, debugging, and maintenance. With a good number of full-stack decentralized and centralized applications to my credit, I look forward to contributing to the "birth" of more user-friendly, logic provoking, innovative solutions that sustainably improve human standards of living.
+
+### Think about an adaptable team player with fast learning capacity, great organizational skills, and an eye for details, and my name pops up to fill that gap! 
+### I can be reached via adesdesk@outlook.com
