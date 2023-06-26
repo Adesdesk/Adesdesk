@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=164C78&vCenter=true&center=true&width=600&lines=Meet+Adeola+David+A.;A+Full+Stack+Javacript+&+Solidity+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=#FF7518&vCenter=true&center=true&width=600&lines=Meet+Adeola+David+A.;A+Full+Stack+Javacript+and+Solidity+Developer">
 <br>
 I have extensive experience conceptualizing and developing full-stack web applications. My delight is in solving real-life problems using creatively written programming instructions. I am adept at various stages of the life cycle of fullstack web2 and web3 applications development including design, coding/programming, debugging, and maintenance. With a good number of decentralized applications to my credit, I look forward to contributing to the "birth" of more user-friendly, logic provoking, innovative solutions that sustainably improve human standards of living.
 <br>
@@ -30,13 +30,9 @@ I can be reached via adesdesk@outlook.com
 <h1 align="center">Reuntime Environments</h1>
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) | ![EVM](https://img.shields.io/badge/EVM-%2366595E.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
-
-
-![Slither](https://img.shields.io/badge/Slither-%23808080.svg?style=for-the-badge&logo=ethereum&logoColor=white)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-%2372BEA6.svg?style=for-the-badge&logo=openzeppelin&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-%236E4C99.svg?style=for-the-badge&logo=metamask&logoColor=white)
+<h1 align="center">Smart Contracts Development Tooling</h1>
+![Slither](https://img.shields.io/badge/Slither-%23808080.svg?style=for-the-badge&logo=ethereum&logoColor=white) | ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-%2372BEA6.svg?style=for-the-badge&logo=openzeppelin&logoColor=white) | ![MetaMask](https://img.shields.io/badge/MetaMask-%236E4C99.svg?style=for-the-badge&logo=metamask&logoColor=white)
 
 <h1 align="center">AI Support</h1>
 ![GPT](https://img.shields.io/badge/GPT-%23555555.svg?style=for-the-badge&logo=openai&logoColor=white) | ![Midjourney](https://img.shields.io/badge/Midjourney-%230A0A0A.svg?style=for-the-badge&logo=midjourney&logoColor=white)
