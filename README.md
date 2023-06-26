@@ -1,5 +1,5 @@
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=#FF7518&vCenter=true&center=true&width=600&lines=Meet+Adeola+David+A.;A+Full+Stack+Javacript+and+Solidity+Developer">
+<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=164C78&vCenter=true&center=true&width=600&lines=Meet+Adeola+David+A.;A+Full+Stack+Javacript+and+Solidity+Developer">
+
 <br>
 I have extensive experience conceptualizing and developing full-stack web applications. My delight is in solving real-life problems using creatively written programming instructions. I am adept at various stages of the life cycle of fullstack web2 and web3 applications development including design, coding/programming, debugging, and maintenance. With a good number of decentralized applications to my credit, I look forward to contributing to the "birth" of more user-friendly, logic provoking, innovative solutions that sustainably improve human standards of living.
 <br>
