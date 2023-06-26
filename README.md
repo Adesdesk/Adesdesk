@@ -17,7 +17,7 @@ I can be reached via adesdesk@outlook.com
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-%232F4F4F.svg?style=for-the-badge&logo=hardhat&logoColor=white) ![Truffle](https://img.shields.io/badge/Truffle-%234F408E.svg?style=for-the-badge&logo=truffle&logoColor=white)
 
 
-![Remix IDE](https://img.shields.io/badge/Remix%20IDE-%2366595E.svg?style=for-the-badge&logo=remix&logoColor=white) ![Ethers.js](https://img.shields.io/badge/Ethers.js-%234CAF50.svg?style=for-the-badge&logo=ethereum&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.js-%23334959.svg?style=for-the-badge&logo=ethereum&logoColor=white) ![Chai](https://img.shields.io/badge/Chai-%23F6ECD7.svg?style=for-the-badge&logo=chai&logoColor=black) ![Mocha](https://img.shields.io/badge/Mocha-%238D6748.svg?style=for-the-badge&logo=mocha&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-%234CAF50.svg?style=for-the-badge&logo=ethereum&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.js-%23334959.svg?style=for-the-badge&logo=ethereum&logoColor=white) ![Chai](https://img.shields.io/badge/Chai-%23F6ECD7.svg?style=for-the-badge&logo=chai&logoColor=black) ![Mocha](https://img.shields.io/badge/Mocha-%238D6748.svg?style=for-the-badge&logo=mocha&logoColor=white)
 
 <h4 >Mark-up & Styling</h4>
 
@@ -30,7 +30,7 @@ I can be reached via adesdesk@outlook.com
 
 <h4 >Reuntime Environments</h4>
 
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) ![EVM](https://img.shields.io/badge/EVM-%2366595E.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) ![EVM](https://img.shields.io/badge/EVM-%2366595E.svg?style=for-the-badge&logo=ethereum&logoColor=white) ![Remix IDE](https://img.shields.io/badge/Remix%20IDE-%2366595E.svg?style=for-the-badge&logo=remix&logoColor=white)
 
 
 <h4 >Smart Contracts Development Tooling</h4>
