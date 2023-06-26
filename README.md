@@ -25,7 +25,7 @@ I can be reached via adesdesk@outlook.com
 ###### Smart Contracts Standard Compliance & Audit
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-%2372BEA6.svg?style=for-the-badge&logo=openzeppelin&logoColor=white) ![Slither](https://img.shields.io/badge/Slither-%23808080.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 ###### RPC Node Providers
-[![QuickNode](https://img.shields.io/badge/QuickNode-%23373737.svg?style=for-the-badge&logo=quicknode&logoColor=white)](https://www.quicknode.com/) [![Ganache](https://img.shields.io/badge/Ganache-%23999999.svg?style=for-the-badge&logo=ganache&logoColor=white)](https://www.trufflesuite.com/ganache) [![Alchemy](https://img.shields.io/badge/Alchemy-%231d1e2e.svg?style=for-the-badge&logo=alchemy&logoColor=white)](https://alchemyapi.io/) [![Infura](https://img.shields.io/badge/Infura-%23000000.svg?style=for-the-badge&logo=infura&logoColor=white)](https://infura.io/)
+[![QuickNode](https://img.shields.io/badge/QuickNode-%23373737.svg?style=for-the-badge&logo=quicknode&logoColor=white)](https://www.quicknode.com/) [![Alchemy](https://img.shields.io/badge/Alchemy-%231d1e2e.svg?style=for-the-badge&logo=alchemy&logoColor=white)](https://alchemyapi.io/) [![Infura](https://img.shields.io/badge/Infura-%23000000.svg?style=for-the-badge&logo=infura&logoColor=white)](https://infura.io/)
 ###### AI Support
 ![GPT](https://img.shields.io/badge/GPT-%23555555.svg?style=for-the-badge&logo=openai&logoColor=white) ![Midjourney](https://img.shields.io/badge/Midjourney-%230A0A0A.svg?style=for-the-badge&logo=midjourney&logoColor=white)
 ###### Databases
