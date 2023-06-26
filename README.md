@@ -20,10 +20,12 @@ I can be reached via adesdesk@outlook.com
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ###### Deployment
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-###### Runtime Environments
+###### Runtime
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![EVM](https://img.shields.io/badge/EVM-%2366595E.svg?style=for-the-badge&logo=ethereum&logoColor=white) ![Remix IDE](https://img.shields.io/badge/Remix%20IDE-%2366595E.svg?style=for-the-badge&logo=remix&logoColor=white)
-###### Smart Contracts Development Tooling
-![Slither](https://img.shields.io/badge/Slither-%23808080.svg?style=for-the-badge&logo=ethereum&logoColor=white) ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-%2372BEA6.svg?style=for-the-badge&logo=openzeppelin&logoColor=white) ![MetaMask](https://img.shields.io/badge/MetaMask-%236E4C99.svg?style=for-the-badge&logo=metamask&logoColor=white)
+###### Smart Contract Standards
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-%2372BEA6.svg?style=for-the-badge&logo=openzeppelin&logoColor=white) ![Slither](https://img.shields.io/badge/Slither-%23808080.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+###### RPC Node Providers
+[![QuickNode](https://img.shields.io/badge/QuickNode-%23373737.svg?style=for-the-badge&logo=quicknode&logoColor=white)](https://www.quicknode.com/) [![Ganache](https://img.shields.io/badge/Ganache-%23999999.svg?style=for-the-badge&logo=ganache&logoColor=white)](https://www.trufflesuite.com/ganache) [![Alchemy](https://img.shields.io/badge/Alchemy-%231d1e2e.svg?style=for-the-badge&logo=alchemy&logoColor=white)](https://alchemyapi.io/) [![Infura](https://img.shields.io/badge/Infura-%23000000.svg?style=for-the-badge&logo=infura&logoColor=white)](https://infura.io/)
 ###### AI Support
 ![GPT](https://img.shields.io/badge/GPT-%23555555.svg?style=for-the-badge&logo=openai&logoColor=white) ![Midjourney](https://img.shields.io/badge/Midjourney-%230A0A0A.svg?style=for-the-badge&logo=midjourney&logoColor=white)
 ###### Databases
