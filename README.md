@@ -8,48 +8,40 @@ Think about an adaptable team player with fast learning capacity, great organiza
 I can be reached via adesdesk@outlook.com
 </p>
 
-<h1 align="center">Languages</h1>
-
-<p align="center">
+<h6 >Languages</h6>
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-</p>
-
-<h1 align="center">Libraries & Frameworks</h1>
-
-<p align="center">
+<h6 >Libraries & Frameworks</h6>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-%232F4F4F.svg?style=for-the-badge&logo=hardhat&logoColor=white) ![Truffle](https://img.shields.io/badge/Truffle-%234F408E.svg?style=for-the-badge&logo=truffle&logoColor=white)
-
-</p>
 
 
 ![Remix IDE](https://img.shields.io/badge/Remix%20IDE-%2366595E.svg?style=for-the-badge&logo=remix&logoColor=white) ![Ethers.js](https://img.shields.io/badge/Ethers.js-%234CAF50.svg?style=for-the-badge&logo=ethereum&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.js-%23334959.svg?style=for-the-badge&logo=ethereum&logoColor=white) ![Chai](https://img.shields.io/badge/Chai-%23F6ECD7.svg?style=for-the-badge&logo=chai&logoColor=black) ![Mocha](https://img.shields.io/badge/Mocha-%238D6748.svg?style=for-the-badge&logo=mocha&logoColor=white)
 
-<h1 align="center">Mark-up & Styling</h1>
+<h6 >Mark-up & Styling</h6>
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
  
-<h1 align="center">Deployment</h1>
+<h6 >Deployment</h6>
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<h1 align="center">Reuntime Environments</h1>
+<h6 >Reuntime Environments</h6>
 
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) ![EVM](https://img.shields.io/badge/EVM-%2366595E.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 
 
-<h1 align="center">Smart Contracts Development Tooling</h1>
+<h6 >Smart Contracts Development Tooling</h6>
 
 ![Slither](https://img.shields.io/badge/Slither-%23808080.svg?style=for-the-badge&logo=ethereum&logoColor=white) ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-%2372BEA6.svg?style=for-the-badge&logo=openzeppelin&logoColor=white) ![MetaMask](https://img.shields.io/badge/MetaMask-%236E4C99.svg?style=for-the-badge&logo=metamask&logoColor=white)
 
-<h1 align="center">AI Support</h1>
+<h6 >AI Support</h6>
 
 ![GPT](https://img.shields.io/badge/GPT-%23555555.svg?style=for-the-badge&logo=openai&logoColor=white) ![Midjourney](https://img.shields.io/badge/Midjourney-%230A0A0A.svg?style=for-the-badge&logo=midjourney&logoColor=white)
 
-<h1 align="center">Databases</h1>
+<h6 >Databases</h6>
 
 ![IPFS](https://img.shields.io/badge/IPFS-%234A9EDC.svg?style=for-the-badge&logo=ipfs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
