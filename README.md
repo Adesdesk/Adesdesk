@@ -22,7 +22,7 @@ I can be reached via adesdesk@outlook.com
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ###### Runtime
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![EVM](https://img.shields.io/badge/EVM-%2366595E.svg?style=for-the-badge&logo=ethereum&logoColor=white) ![Remix IDE](https://img.shields.io/badge/Remix%20IDE-%2366595E.svg?style=for-the-badge&logo=remix&logoColor=white)
-###### Smart Contract Standards
+###### Smart Contracts Standard Compliance & Audit
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-%2372BEA6.svg?style=for-the-badge&logo=openzeppelin&logoColor=white) ![Slither](https://img.shields.io/badge/Slither-%23808080.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 ###### RPC Node Providers
 [![QuickNode](https://img.shields.io/badge/QuickNode-%23373737.svg?style=for-the-badge&logo=quicknode&logoColor=white)](https://www.quicknode.com/) [![Ganache](https://img.shields.io/badge/Ganache-%23999999.svg?style=for-the-badge&logo=ganache&logoColor=white)](https://www.trufflesuite.com/ganache) [![Alchemy](https://img.shields.io/badge/Alchemy-%231d1e2e.svg?style=for-the-badge&logo=alchemy&logoColor=white)](https://alchemyapi.io/) [![Infura](https://img.shields.io/badge/Infura-%23000000.svg?style=for-the-badge&logo=infura&logoColor=white)](https://infura.io/)
