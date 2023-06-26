@@ -8,7 +8,7 @@ Think about an adaptable team player with fast learning capacity, great organiza
 I can be reached via adesdesk@outlook.com
 </p>
 
-<h4 align="center">Skills and Tooling</h4>
+<h2 align="center">Skills and Tooling</h2>
 
 ###### Languages 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
