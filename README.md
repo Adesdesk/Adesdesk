@@ -3,7 +3,7 @@
 <br>
 I have extensive experience conceptualizing and developing full-stack web applications. My delight is in solving real-life problems using creatively written programming instructions. I am adept at various stages of the life cycle of fullstack web2 and web3 applications development including design, coding/programming, debugging, and maintenance. With a good number of decentralized applications to my credit, I look forward to contributing to the "birth" of more user-friendly, logic provoking, innovative solutions that sustainably improve human standards of living.
 <br>
-Think about an adaptable team player with fast learning capacity, great organizational skills, and eyes for details, and my name pops up to fill that gap! </p>
+Think about an adaptable team player with fast learning capacity, great organizational skills, and 'an eye for detail', and my name pops up to fill that gap! </p>
 <p>
 I can be reached via adesdesk@outlook.com
 </p>
