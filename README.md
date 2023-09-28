@@ -10,7 +10,6 @@ I can be reached via adesdesk@outlook.com
 
 <h2 align="center">Skills and Tooling</h2>
 
-<div style="text-align:center;">
 ###### Languages 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ###### Libraries & Frameworks
@@ -35,5 +34,4 @@ I can be reached via adesdesk@outlook.com
 ![GPT](https://img.shields.io/badge/GPT-%23555555.svg?style=for-the-badge&logo=openai&logoColor=white) ![Midjourney](https://img.shields.io/badge/Midjourney-%230A0A0A.svg?style=for-the-badge&logo=midjourney&logoColor=white) ![Lexica](https://img.shields.io/badge/Lexica-%23FF5733.svg?style=for-the-badge)
 ###### Databases
 ![IPFS](https://img.shields.io/badge/IPFS-%234A9EDC.svg?style=for-the-badge&logo=ipfs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-</div>
 
