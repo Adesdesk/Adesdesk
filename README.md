@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=164C78&vCenter=true&center=true&width=600&lines=Adeola+David+A.+Is;A+Full+Stack+Developer+And;SC+Security+Researcher">
+<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=164C78&vCenter=true&center=true&width=600&lines=Full+Stack+Developer+Profile">
 
 <br>
 Adeola has extensive experience conceptualizing and developing full-stack web applications. My delight is in solving real-life problems using creatively written programming instructions. I am an adept developer of full-stack web2 and web3 applications, and a smart contract security researcher. With a good number of decentralized and conventional applications to my credit, I look forward to contributing to the "birth" of more user-friendly, innovative solutions that sustainably improve human standards of living.
