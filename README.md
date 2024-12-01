@@ -2,7 +2,7 @@
 
 <br>
 <p>
-Reach me via adesdesk@outlook.com
+Reach me via davidsnode@gmail.com
 </p>
 
 <h2 align="center">Skills and Tooling</h2>
