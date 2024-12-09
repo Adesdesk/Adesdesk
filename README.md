@@ -8,7 +8,8 @@ Reach me via davidsnode@gmail.com
 <h2 align="center">Skills and Tooling</h2>
 
 ###### I work with 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) [![Hardhat](https://img.shields.io/badge/Hardhat-20232A?style=for-the-badge&logo=hardhat&logoColor=white)](https://hardhat.org/) [![Foundry](https://img.shields.io/badge/Foundry-E10098?style=for-the-badge&logo=foundry&logoColor=white)](https://book.getfoundry.sh/)
+
 
 ###### And I proficiently use
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) 
