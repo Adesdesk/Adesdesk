@@ -7,7 +7,7 @@ Reach me via davidsnode@gmail.com
 
 <h2 align="center">Skills and Tooling</h2>
 
-###### I work with 
+###### I build with 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
 
 
