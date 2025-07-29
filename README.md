@@ -16,6 +16,7 @@
 ### I build with
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
 </p>
 
@@ -28,10 +29,6 @@
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Hardhat-2C2E3B.svg?style=for-the-badge&logo=ethereum&logoColor=white" alt="Hardhat"/>
   <img src="https://img.shields.io/badge/Foundry-%23000000.svg?style=for-the-badge&logo=foundry&logoColor=white" alt="Foundry"/>
-  <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/ChatGPT-%234A90E2.svg?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Phind-%23007ACC.svg?style=for-the-badge&logo=phind&logoColor=white" alt="Phind"/>
-  <img src="https://img.shields.io/badge/Bard-%230F9D58.svg?style=for-the-badge&logo=google&logoColor=white" alt="Bard"/>
   <img src="https://img.shields.io/badge/Generative_AI-5C2D91?style=for-the-badge&logo=ai&logoColor=white" alt="Generative AI"/>
 </p>
 
@@ -41,6 +38,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/IPFS-65C2CB.svg?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS"/>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
